@@ -5,9 +5,9 @@
 I'm a second year Software Engineering student with a background in Banking and Accounting. My journey from finance into tech has shaped me to problem solve with precision and curiosity.
 
 **🔍 I’m passionate about:**
-- Software Testing & Quality Assurance
 - Data Mangement & Engineering
-- Writing Clean, reliable code in Python, Java, JavaScript & C#
+- Software Testing & Quality Assurance
+- Writing Clean, reliable code in Python, SQL, Java, JavaScript & C#
 - Turning bugs into learning opportunities
 
 --- 
